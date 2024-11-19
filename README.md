@@ -1,9 +1,10 @@
 ### Steps to Run the App
 
-1. From XCode, select a simulator device or connect a device with capatability for iOS 17.
-2. Run the app (Cmd+R).
-3. Refresh the list by clicking the refresh icon in the top right.
-4. Change the url endpoint the app is connecting to by toggling the menu in the top left.
+1. Clone this repository to your desired folder. 
+2. Open RecipeApp.xcodeproj, and select a simulator device or connect a device with capatability for iOS 17.
+3. Run the app (Cmd+R).
+4. Refresh the list by clicking the refresh icon in the top right.
+5. Change the url endpoint the app is connecting to by toggling the menu in the top left.
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
