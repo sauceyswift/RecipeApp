@@ -82,6 +82,7 @@
 		BAC1F6A42CEBF98F00A25C47 /* RecipesApiTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipesApiTests.swift; sourceTree = "<group>"; };
 		BAC1F6A62CEBF9BC00A25C47 /* URLProtocolMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLProtocolMock.swift; sourceTree = "<group>"; };
 		BAC1F6A92CED089100A25C47 /* RecipeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTests.swift; sourceTree = "<group>"; };
+		BAC1F6AB2CED0B5000A25C47 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +142,7 @@
 		BA99515D2CE298760066E6A4 = {
 			isa = PBXGroup;
 			children = (
+				BAC1F6AB2CED0B5000A25C47 /* README.md */,
 				BA9951682CE298760066E6A4 /* RecipeApp */,
 				BA9951792CE298780066E6A4 /* RecipeAppTests */,
 				BA9951832CE298780066E6A4 /* RecipeAppUITests */,
